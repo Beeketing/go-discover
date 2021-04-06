@@ -1,4 +1,4 @@
-module github.com/hashicorp/go-discover
+module github.com/Beeketing/go-discover
 
 require (
 	cloud.google.com/go v0.26.0 // indirect
